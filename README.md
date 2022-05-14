@@ -1,0 +1,2 @@
+# PD4
+Projekt 2 polega na rozwiązaniu dwóch poleceń SQL przy uzyciu wywołan funkcji i metod z pakietu pandas. Kazdemu z 2 polecen SQL odpowiadają dwa równowazne sposoby ich implementacji: wywołanie pandas.read_sql_query("""zapytanie SQL"""); wywołanie ciagu „zwykłych” metod i funkcji z pakietu pandas. Pracowałam na uproszczonym zrzucie zanonimizowanych danych z serwisu https://travel.stackexchange.com/, a mianowicie na trzech zbiorach danych (ramkach danych) Tags, Posts, Comments.
